@@ -1,5 +1,5 @@
 {
-  "name": "unchi-buriburi",
+  "name": "うんちぶりぶり",
   "version": "1.0",
   "description": "うんこっぽい文字を検出したら後ろに絵文字を追加します",
   "permissions": ["http://*/*", "https://*/*"],
